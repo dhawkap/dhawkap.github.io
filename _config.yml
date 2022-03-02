@@ -1,0 +1,65 @@
+# Site settings
+title: "Priya Dhawka"
+description: "Priya Dhawka's Personal CV Page"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Priya Dhawka"
+resume_title:                   "MSc Student in Computer Science at the University of Calgary, AB, Canada"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "dhawkapriya [at] gmail [dot] com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "-"
+resume_contact_address:         "Calgary, AB, Canada"
+
+resume_header_contact_info:     "Calgary, AB, Canada • dhawkap [at] gmail [dot] com"
+display_header_contact_info:    "true"
+
+resume_header_intro: "<p>Hello! I'm a first year MSc student in Computer Science at the University of Calgary.
+I am co-supervised by Dr Helen Ai He and Dr Wesley Willett from the Interactions Lab.
+I am interested in Data Visualization (VIS) and Human Computer Interaction (HCI) research that focuses on how
+demographic data visualizations can be used to further equitable processes at institutions.
+Specifically, I explore how visualization tools can support advocates for equity and inclusion to provoke conversations
+about equity (or lack thereof) within institutional hiring processes.
+I have a BA in Computer Science from Colgate University. I am from the small tropical island of Mauritius
+and outside of research, I like crochet, baking and the beach.
+</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+# resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+# resume_section_experience:      true
+resume_section_education:       true
+# resume_section_patents:         true
+resume_section_pubs:            true
+resume_section_links:           true
+# resume_section_projects:        true
+# resume_section_recognition:     true
+# resume_section_associations:    true
+# resume_section_interests:       true
+# resume_section_skills:          true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/dhawkap"
+  resume_twitter_url:           "https://twitter.com/priya_dhawka"
+  resume_linkedin_url:          "https://www.linkedin.com/in/priya-d-15b743112/"
+  # resume_instagram_url:         "https://www.instagram.com/disprishinee/"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
