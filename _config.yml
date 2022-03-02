@@ -24,13 +24,14 @@ resume_header_contact_info:     "Calgary, AB, Canada • dhawkapriya@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Hello! I'm a first year MSc student in Computer Science at the University of Calgary.
-I am co-supervised by [Dr Helen Ai He]:[https://helenaihe.com/] and [Dr Wesley Willett]:[http://www.wjwillett.net/] from the [Interactions Lab]:[https://ilab.ucalgary.ca/]. \\
+I am co-supervised by [Dr Helen Ai He](https://helenaihe.com/) and [Dr Wesley Willett](http://www.wjwillett.net/) from the [Interactions Lab](https://ilab.ucalgary.ca/).  \\
 I am interested in Data Visualization (VIS) and Human Computer Interaction (HCI) research that focuses on how
-demographic data visualizations can be used to further equitable processes at institutions. \\
+demographic data visualizations can be used to further equitable processes at institutions.  \\
 Specifically, I explore how visualization tools can support advocates for equity and inclusion to provoke conversations
-about equity (or lack thereof) within institutional hiring processes. \\
+about equity (or lack thereof) within institutional hiring processes.  \\
 I have a BA in Computer Science from Colgate University. I am from the small tropical island of Mauritius
 and outside of research, I like crochet, baking and the beach. </p>"
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
