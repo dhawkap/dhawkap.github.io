@@ -4,6 +4,7 @@ description: "Priya Dhawka's Personal CV Page"
 
 # Build settings
 markdown: kramdown
+parse_block_html: true
 sass:
   sass_dir: _sass
   style: compressed
