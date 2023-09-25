@@ -2,44 +2,14 @@
 layout: default
 ---
 
-## About Me
+## About
 
-<img class="profile-picture" src="sherlock.jpg">
+<!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am Priya. I'm currently a PhD student in Human Centered Design and Engineering at the University of Washington. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My research is at the intersection of information visualization, equity, protest and accountability. I am broadly interested in equitable ways of humanizing demographic data, specifically data about race. My Master's research explores the use of demographically-diverse anthropographics for visualizing racial data to convey the humanity and lived experiences of the people behind the data. 
 
-## Research Interest
+I completed my MS in Computer Science from the University of Calgary in 2023 where I was part of the [Interactions Lab](https://ilab.ucalgary.ca/) and was advised by [Dr.Wesley Willett](http://www.wjwillett.net/) in the (Data Experience Lab)[https://dataexperience.cpsc.ucalgary.ca]. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+I have a BA in Computer Science from [Colgate University](https://www.colgate.edu/) where I also worked as a data analyst in equity and diversity. I am from the small island nation of [Mauritius](https://en.wikipedia.org/wiki/Mauritius). Outside of research, you can find me reading or hanging out in the sun.

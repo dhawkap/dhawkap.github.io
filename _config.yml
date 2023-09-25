@@ -7,9 +7,8 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
+
 
 sass:
     style: compressed
@@ -18,7 +17,9 @@ sass:
 nav:
  - name: "About"
    link: "/"
+ - name: "Publications"
+   link: "publications"
  - name: "CV"
-   link: "Priya-Dhawka-CV.pdf"
+   link: "Priya-Dhawka-CV-2023.pdf"
  - name: "Contact"
-   link: "contact"
+   link: "contact" 
