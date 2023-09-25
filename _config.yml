@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Priya Dhawka
+url: "https://dhawkap.github.io"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/"
+ - name: "CV"
+   link: "Priya-Dhawka-CV.pdf"
  - name: "Contact"
    link: "contact"
