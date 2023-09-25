@@ -29,6 +29,6 @@ KJ Ross, **Priya Dhawka**, and Wesley Willett. \
 
 <span class='paper-title'>Observations of Data Resistance: Challenges of Communicating Demographic Data at Private Institutions.</span>\
 IEEE VIS 2021 Human-Data Interaction Workshop. \
-\ **Priya Dhawka**, Wesley Willett, and Helen Ai He. \
+**Priya Dhawka**, Wesley Willett, and Helen Ai He. \
 [[paper](https://drive.google.com/file/d/1x2zK9_ca8HnTHtkm-Kq5V9Mg2FwXWoPH/view)]
 
