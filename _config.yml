@@ -22,5 +22,5 @@ nav:
    link: "publications"
  - name: "CV"
    link: "Priya-Dhawka-CV.pdf"
- - name: "Contact"
-   link: "contact" 
+ # - name: "Contact"
+ #   link: "contact" 
