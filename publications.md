@@ -41,4 +41,4 @@ In IEEE VIS 2021 Human-Data Interaction Workshop. \
 <span class='paper-title'>Humanizing Data Using Demographically Diverse Anthropographics</span>\
 In Do No Harm Guide: Crafting Equitable Data Narratives \
 **Priya Dhawka** and Wesley Willett. \
-[[report](https://www.urban.org/sites/default/files/2024-02/Do_No_Harm_Guide_Crafting_Equitable_Data_Narratives.pdf#page=74]
+[[report](https://www.urban.org/sites/default/files/2024-02/Do_No_Harm_Guide_Crafting_Equitable_Data_Narratives.pdf#page=74)]
