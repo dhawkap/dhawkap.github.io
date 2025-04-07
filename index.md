@@ -5,7 +5,7 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! I am Priya. I'm a second-year PhD student in the Human Centered Design and Engineering department at the University of Washington. I'm advised by [Dr.Sayamindu Dasgupta](https://unmad.in/).
+Hi! I am Priya. I'm a second-year PhD student in the Human Centered Design and Engineering department at the University of Washington.
 
 I'm broadly interested in thinking about **ethical, critical, and feminist data visualizations** alongside developing tools and strategies to support visualization designers in visually representing [protected demographic data](https://www.eeoc.gov/employers/small-business/3-who-protected-employment-discrimination) such as race, caste, gender, disability among others. I'm also curious about **open data practices and policies** and how these are misappropriated to support growing **data-driven misinformation** about marginalized groups around contentious political issues such as displacement and migration in the US.
 
