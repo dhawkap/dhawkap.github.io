@@ -3,6 +3,10 @@ layout: default
 ---
 
 ### Conferences & Journal Publications
+4. <span class='paper-title'>Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse </span>\
+In CSCW Conference on Computer-Supported Cooperative Work (CSCW ’25).\
+**Priya Dhawka**, Nina Lutz, and Kate Starbird. \
+[[paper](https://dl.acm.org/doi/10.1145/3757574)]
 
 3. <span class='paper-title'>The Social Construction of Visualizations: Practitioner Challenges and Experiences of Visualizing Race and Gender Demographic Data. </span>\
 In CHI Conference on Human Factors in Computing Systems (CHI ’25).\
