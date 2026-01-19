@@ -10,7 +10,7 @@ In CSCW Conference on Computer-Supported Cooperative Work (CSCW ’25).\
 
 3. <span class='paper-title'>The Social Construction of Visualizations: Practitioner Challenges and Experiences of Visualizing Race and Gender Demographic Data. </span>\
 In CHI Conference on Human Factors in Computing Systems (CHI ’25).\
-**Priya Dhawka** and Sayamindu Dasgupta. <span class='paper-award'>Best Paper Honorable Mention</span> \
+**Priya Dhawka** and Sayamindu Dasgupta. <a>Best Paper Honorable Mention</a> \
 [[paper](https://arxiv.org/abs/2502.09048)]
 
 2. <span class='paper-title'>Better Little People Pictures: Generative Creation of Demographically Diverse Anthropographics. </span>\
