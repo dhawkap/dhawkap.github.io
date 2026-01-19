@@ -3,6 +3,10 @@ layout: default
 ---
 
 ### Conferences & Journal Publications
+5. <span class='paper-title'>Visually-Informed Mixed Methods Research of Visual Social Data. </span>\
+Forthcoming In CHI ’26.\
+Nina Lutz, Joey Schafer, **Priya Dhawka**, Phil Tinn, and Kate Starbird.  
+
 4. <span class='paper-title'>Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse </span>\
 In CSCW Conference on Computer-Supported Cooperative Work (CSCW ’25).\
 **Priya Dhawka**, Nina Lutz, and Kate Starbird. <span class='paper-award'>Best Paper</span> \
@@ -10,7 +14,7 @@ In CSCW Conference on Computer-Supported Cooperative Work (CSCW ’25).\
 
 3. <span class='paper-title'>The Social Construction of Visualizations: Practitioner Challenges and Experiences of Visualizing Race and Gender Demographic Data. </span>\
 In CHI Conference on Human Factors in Computing Systems (CHI ’25).\
-**Priya Dhawka** and Sayamindu Dasgupta. <a>Best Paper Honorable Mention</a> \
+**Priya Dhawka** and Sayamindu Dasgupta. <span class='paper-award'>Best Paper Honorable Mention</span> \
 [[paper](https://arxiv.org/abs/2502.09048)]
 
 2. <span class='paper-title'>Better Little People Pictures: Generative Creation of Demographically Diverse Anthropographics. </span>\
