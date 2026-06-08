@@ -3,9 +3,10 @@ layout: default
 ---
 
 ### Conferences & Journal Publications
-5. <span class='paper-title'>Visually-Informed Mixed Methods Research of Visual Social Data. </span>\
-Forthcoming In CHI ’26.\
-Nina Lutz, Joey Schafer, **Priya Dhawka**, Phil Tinn, and Kate Starbird.  
+5. <span class='paper-title'>With Visual Integrity and Care: A Framework for Mixed Methods Research on Visual Social Data </span>\
+In CHI Conference on Human Factors in Computing Systems (CHI ’26).\
+Nina Lutz, Joey Schafer, **Priya Dhawka**, Phil Tinn, and Kate Starbird. <span class='paper-award'>Best Paper</span> \
+[[paper](https://dl.acm.org/doi/abs/10.1145/3772318.3791623)]
 
 4. <span class='paper-title'>Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse </span>\
 In CSCW Conference on Computer-Supported Cooperative Work (CSCW ’25).\
