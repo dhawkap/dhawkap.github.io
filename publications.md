@@ -2,6 +2,8 @@
 layout: default
 ---
 
+I do my best to keep this up to date. You can also follow my [Google Scholar.](https://scholar.google.com/citations?hl=en&user=wgYYWVgAAAAJ&view_op=list_works&gmla=AERr9JEz02pTyprl-Rwb_dd4Lk0iz56m3txwcV-m5wcWxu3HKaoAYL9-qgPbnwWCr1lJm_CDwYUd)
+
 ### Conferences & Journal Publications
 5. <span class='paper-title'>With Visual Integrity and Care: A Framework for Mixed Methods Research on Visual Social Data </span>\
 In CHI Conference on Human Factors in Computing Systems (CHI ’26).\
